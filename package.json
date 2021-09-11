@@ -28,5 +28,17 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
-  }
+  },
+  "description": "In the project directory, you can run:",
+  "main": "currencies.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yunusd/bootcamp-vanilla.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yunusd/bootcamp-vanilla/issues"
+  },
+  "homepage": "https://github.com/yunusd/bootcamp-vanilla#readme"
 }
